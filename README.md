@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Andrey. Welcome!😄
+
+I learn Java at [Job4j](https://job4j.ru/)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=K000kc&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K000kc&layout=compact)](https://github.com/K000kc/github-readme-stats)
 
 <!--
 **k000kc/k000kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
